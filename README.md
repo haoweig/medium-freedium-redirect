@@ -5,7 +5,7 @@ Automatically redirects Medium articles to Freedium for paywall-free reading.
 ## Installation
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/)
-2. [Click here to install the script](https://raw.githubusercontent.com/yourusername/medium-freedium-redirect/main/medium-freedium.user.js)
+2. [Click here to install the script](https://raw.githubusercontent.com/haoweig/medium-freedium-redirect/main/medium-freedium.user.js)
 
 ## Features
 
